@@ -1,0 +1,6 @@
+[submodule "vilisov-server"]
+	path = vilisov-server
+	url = https://github.com/danilger/vilisov-server.git
+[submodule "vilisov-client"]
+	path = vilisov-client
+	url = https://github.com/danilger/vilisov-client.git
